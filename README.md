@@ -1,2 +1,11 @@
-# my-photo-demo
-Demo для завантаження фото через GitHub Pages
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Моє зображення</title>
+</head>
+<body>
+    <h1>Моє зображення</h1>
+    <img src="22.04.2025.jpg" alt="Опис зображення">
+</body>
+</html>
